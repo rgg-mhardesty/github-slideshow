@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**Is this bold enough for you?**
 Use the left arrow to go back!
